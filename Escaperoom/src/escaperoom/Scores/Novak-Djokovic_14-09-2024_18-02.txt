@@ -1,0 +1,11 @@
+User Stats:
+	Name:		Novak Djokovic
+	Riddle 1:	1 seconds	0 failed attempt(s)  	Status: COMPLETED
+	Riddle 2:	8 seconds  				Status: COMPLETED
+	Riddle 3:	14 seconds	8 failed attempt(s)  	Status: COMPLETED
+	Riddle 4:	3 seconds	0 failed attempt(s)  	Status: COMPLETED
+	Riddle 5:	33 seconds	6 failed attempt(s)  	Status: COMPLETED
+	Riddle 6:	Yes (exited the escape room)
+	Total:		394 points
+
+Game progress saved on: 14 Sept. 2024

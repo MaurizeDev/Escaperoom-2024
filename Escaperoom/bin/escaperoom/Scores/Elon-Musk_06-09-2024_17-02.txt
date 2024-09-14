@@ -1,0 +1,11 @@
+User Stats:
+	Name:		Elon Musk
+	Riddle 1:	6 seconds	4 failed attempt(s)  	Status: COMPLETED
+	Riddle 2:	9 seconds  				Status: COMPLETED
+	Riddle 3:	13 seconds	50 failed attempt(s)  	Status: NOT_COMPLETED
+	Riddle 4:	5 seconds	0 failed attempt(s)  	Status: COMPLETED
+	Riddle 5:	33 seconds	10 failed attempt(s)  	Status: NOT_COMPLETED
+	Riddle 6:	Yes (exited the escape room)
+	Total:		312 points
+
+Game progress saved on: 06 Sept. 2024

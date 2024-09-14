@@ -1,0 +1,11 @@
+User Stats:
+	Name:		Cristiano Ronaldo
+	Riddle 1:	1 seconds	5 failed attempt(s)  	Status: NOT_COMPLETED
+	Riddle 2:	9 seconds  				Status: COMPLETED
+	Riddle 3:	8 seconds	25 failed attempt(s)  	Status: NOT_COMPLETED
+	Riddle 4:	4 seconds	10 failed attempt(s)  	Status: NOT_COMPLETED
+	Riddle 5:	31 seconds	7 failed attempt(s)  	Status: COMPLETED
+	Riddle 6:	Yes (exited the escape room)
+	Total:		227 points
+
+Game progress saved on: 08 Sept. 2024

@@ -1,0 +1,11 @@
+User Stats:
+	Name:		Salvador Dali Domenech
+	Riddle 1:	1 seconds	0 failed attempt(s)  	Status: COMPLETED
+	Riddle 2:	9 seconds  				Status: COMPLETED
+	Riddle 3:	16 seconds	10 failed attempt(s)  	Status: COMPLETED
+	Riddle 4:	3 seconds	0 failed attempt(s)  	Status: COMPLETED
+	Riddle 5:	15 seconds	4 failed attempt(s)  	Status: COMPLETED
+	Riddle 6:	Yes (exited the escape room)
+	Total:		347 points
+
+Game progress saved on: 11 Sept. 2024

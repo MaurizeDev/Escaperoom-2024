@@ -1,0 +1,11 @@
+User Stats:
+	Name:		Steve Jobs
+	Riddle 1:	0 seconds	0 failed attempt(s)  	Status: COMPLETED
+	Riddle 2:	9 seconds  				Status: COMPLETED
+	Riddle 3:	17 seconds	8 failed attempt(s)  	Status: COMPLETED
+	Riddle 4:	2 seconds	0 failed attempt(s)  	Status: COMPLETED
+	Riddle 5:	8 seconds	10 failed attempt(s)  	Status: NOT_COMPLETED
+	Riddle 6:	Yes (exited the escape room)
+	Total:		364 points
+
+Game progress saved on: 09 Sept. 2024

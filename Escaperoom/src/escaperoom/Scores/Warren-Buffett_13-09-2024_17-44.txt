@@ -1,0 +1,11 @@
+User Stats:
+	Name:		Warren Buffett
+	Riddle 1:	27 seconds	2 failed attempt(s)  	Status: COMPLETED
+	Riddle 2:	92 seconds  				Status: COMPLETED
+	Riddle 3:	26 seconds	9 failed attempt(s)  	Status: COMPLETED
+	Riddle 4:	3 seconds	0 failed attempt(s)  	Status: COMPLETED
+	Riddle 5:	13 seconds	5 failed attempt(s)  	Status: COMPLETED
+	Riddle 6:	Yes (exited the escape room)
+	Total:		335 points
+
+Game progress saved on: 13 Sept. 2024
