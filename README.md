@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is **my final project after a 6-week Java course**. I wrote it within one week. We needed to show all of the learned topics like OOP, Enum, Interfaces, Lambda, file-system/database and all of that in clean code and according to Java naming and documentation conventions.
+This is **my final project after a 6-week Java course**. I wrote it within one week. We needed to show all of the learned topics like OOP, Enum, Interfaces, Lambda, file-system/database etc. And all of that in clean code and according to Java naming and documentation conventions.
 
 The **Escape Room Game** is an interactive text-based game where players must solve multiple puzzles to escape from a virtual escape room. This Java console-based project offers a series of challenging brain teasers that need to be solved in a certain timeframe.
 
